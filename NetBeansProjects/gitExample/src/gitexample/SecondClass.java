@@ -10,5 +10,5 @@ package gitexample;
  * @author igorwiese
  */
 public class SecondClass {
-    
+    int x=10;
 }
