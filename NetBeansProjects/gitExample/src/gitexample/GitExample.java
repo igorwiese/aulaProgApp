@@ -15,7 +15,8 @@ public class GitExample {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("mudanca");
+        System.out.println("mudanca 2");
+        int x = 10;
     }
     
 }
