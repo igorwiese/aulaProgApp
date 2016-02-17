@@ -16,6 +16,7 @@ public class ProgAPP {
      */
     public static void main(String[] args) {
         System.out.println("My first App");
+        System.out.println("v2");
     }
     
 }
